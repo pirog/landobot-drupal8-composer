@@ -1,0 +1,14 @@
+uuid: c9c46540-6bf3-4736-bb89-eab39b21ba1c
+name: landobot-drupal8-composer
+mail: mike@thinktandem.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
